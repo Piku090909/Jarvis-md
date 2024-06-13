@@ -10,7 +10,7 @@ services:
     autoDeploy: false
     envVars:
       - key: SESSION_ID
-        sync: Jarvis_de39_7dfd_cf50_f33a_0c92_c8aa_7c2c_1c75
+        sync: false
       - key: BOT_INFO
         value: ᴊᴀʀᴠɪꜱ;ʟᴏᴋɪ-xᴇʀ;https://i.imgur.com/VIpl3q5.mp4
       - key: WARN_COUNT
